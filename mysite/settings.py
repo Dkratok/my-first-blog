@@ -25,7 +25,7 @@ SECRET_KEY = '5bm3o5+hb3v%xe5q0s@sjpgexd!segsasq&)#bc)%iq#y(_zr0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'dimitrius.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'myfirstnewdjangoblog.pythonanywhere.com']
 
 
 # Application definition
